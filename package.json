@@ -1,0 +1,13 @@
+{
+  "name": "rolldown-asset-dedupe-name-suffix",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.11.1",
+  "scripts": {
+    "start": "node repro.mjs"
+  },
+  "devDependencies": {
+    "rolldown": "1.2.14",
+    "rollup": "4.64.6"
+  }
+}
